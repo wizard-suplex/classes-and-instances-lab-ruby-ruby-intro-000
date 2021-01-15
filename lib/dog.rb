@@ -1,6 +1,6 @@
 class Dog
 end
 
-Bruno = Dog.new
-Dalton = Dog.new
-Otis = Dog.new
+Fido = Dog.new
+Snoopy = Dog.new
+Lassie = Dog.new
